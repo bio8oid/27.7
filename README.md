@@ -1,6 +1,11 @@
 ## 27.7
 
-_Redux-Demo_
+### _Redux-Demo_
+
+[VIEW APP](https://bio8oid.github.io/27.7/build)
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
