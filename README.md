@@ -2,7 +2,7 @@
 
 ### _Redux-Demo_
 
-[VIEW APP](https://bio8oid.github.io/27.7/build)
+[VIEW APP](https://5d2b9f493b911f1352ec61e6--musing-davinci-0e9e77.netlify.com/)
 
 
 
